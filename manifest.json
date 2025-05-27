@@ -3,9 +3,11 @@
   "short_name": "CkTracK",
   "description": "CookTracK – Track and manage your meal sales effortlessly.",
   "start_url": "./index.html",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ff6347",
+  "lang": "en",
   "icons": [
     {
       "src": "icon-192.png",
