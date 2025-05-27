@@ -1,7 +1,7 @@
 {
-  "name": "CookTraCK",
-  "short_name": "CookTraCK",
-  "description": "CookTraCK – Track and manage your recipes and meals effortlessly.",
+  "name": "CookTracK",
+  "short_name": "CkTracK",
+  "description": "CookTracK – Track and manage your meal sales effortlessly.",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#ffffff",
